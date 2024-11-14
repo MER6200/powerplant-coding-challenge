@@ -8,12 +8,6 @@ The Production Plan API is designed to receive energy load requirements and vari
 
 ### Project Structure
 
-The project is organized as follows:
-project/ ├── data/  
-Folder containing application data ├── src/ # Folder containing source code │ ├── production_plan.py # Production planning algorithm │ └── app.py # Flask server for the application interface └── test/ # Folder containing tests └── test_app.py # Unit tests for the Flask application
-
-### Folder Details
-
 ```bash
   project/
 ├── requirement.txt             
